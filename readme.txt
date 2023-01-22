@@ -1,4 +1,4 @@
-**INoteApp**
+**INote App**
 
 A single-page INotes application implemented using the 
 MERN stack (MongoDB, Express.JS, ReactJS, and Node.js).
